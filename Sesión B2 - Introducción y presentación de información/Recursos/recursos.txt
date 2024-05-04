@@ -1,0 +1,7 @@
+https://docs.arduino.cc/learn/programming/functions/
+https://www.arduino.cc/reference/en/language/variables/data-types/array/
+https://www.arduino.cc/reference/en/language/variables/data-types/string/
+https://www.arduino.cc/reference/en/libraries/liquidcrystal/
+https://playground.arduino.cc/Code/Keypad/#CurrentVersion
+https://www.arduino.cc/reference/en/language/structure/further-syntax/include/
+https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/

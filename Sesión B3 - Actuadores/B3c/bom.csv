@@ -1,0 +1,8 @@
+﻿Nombre,Cantidad,Componente
+"U1",1," Arduino Uno R3"
+"K1",1," Relé SPDT"
+"T1",1," Transistor NPN (BJT)"
+"R1, R2",2,"330 Ω Resistencia"
+"D1",1," Diodo"
+"D2",1,"Amarillo LED"
+"D3",1,"Azul LED"

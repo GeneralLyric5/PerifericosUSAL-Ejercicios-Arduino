@@ -1,0 +1,5 @@
+﻿Nombre,Cantidad,Componente
+"U1",1," Arduino Uno R3"
+"D1",1,"Rojo LED"
+"R1",1," Fotorresistencia"
+"R2, R3",2,"330 Ω Resistencia"

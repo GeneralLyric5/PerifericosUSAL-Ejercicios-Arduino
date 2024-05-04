@@ -1,0 +1,6 @@
+﻿Nombre,Cantidad,Componente
+"U1",1," Arduino Uno R3"
+"M1",1," Motor de CC"
+"T1",1," Transistor NPN (BJT)"
+"U2",1,"5.1 V Diodo Zener"
+"R1",1,"1 kΩ Resistencia"

@@ -1,0 +1,3 @@
+https://www.arduino.cc/reference/en/libraries/servo/
+https://itp.nyu.edu/physcomp/lessons/analog-output/
+https://vimeo.com/372276550
